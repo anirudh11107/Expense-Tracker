@@ -1,4 +1,4 @@
-# Student Records Management System
+# Student Bio Management System
 
 This Python program allows you to manage student details stored in a CSV file (`Student_data.csv`). It provides a simple menu-driven interface to add new student data, read existing records, search by admission number, find students with maximum and minimum CGPA scores, and display students with high CGPA. The project is ideal for learning file handling, basic data validation, and simple data analysis using Python.
 
